@@ -30,3 +30,6 @@ Five Key EDA Insights (Engagement 1 · County Education Office) 1. Overall At-Ri
 Final One-Page Board Report (Engagement 2 · Duka Electronics)
 4. Board Summary (145 Words)
 In the first half of 2026, Duka Electronics generated KES 71.8 million across 1,000 orders, achieving an average order value of KES 71,792. Performance was anchored by core computing hardware and our flagship capital branch: Laptops (KES 41.5M) and Tablets (KES 19.3M) delivered 84.8% of total revenue, while Nairobi contributed 36.4% (KES 26.1M)—nearly double runner-up Mombasa (KES 14.0M). Monthly sales climbed steadily to an April peak of KES 13.5 million before easing 19.3% to KES 10.9 million in June. While In-store remained our primary channel (57.1%, KES 41.0M), Online sales captured 31.7% (KES 22.8M), including 83 high-value Premium orders in Nairobi and Mombasa worth KES 10.2 million. For H2 2026, leadership should launch targeted online promotions in Nairobi and Mombasa, introduce accessory bundles at Laptop and Tablet checkout to lift attach rates, and run Q3 promotional drives across regional branches to reverse June's softening trend.
+## Final One-Page Board Report
+
+![Duka Electronics H1 2026 Board Performance Brief](reports/duka_board_report.png)
