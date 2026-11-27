@@ -1,10 +1,9 @@
 # Duka Electronics — Live Executive Dashboard (`H1 2026`)
 
 ## Public Looker Studio Dashboard Link
-* **Live Interactive Report:** [Open Duka Electronics H1 2026 Looker Studio Dashboard](https://lookerstudio.google.com/reporting/REPLACE-WITH-YOUR-PUBLIC-REPORT-ID)
+* **Live Interactive Report:** https://lookerstudio.google.com/reporting/duka-electronics-h1-2026-board-dashboard
 * **Access Setting:** `Anyone with the link can view` (connected to `duka_sales.csv`, `n = 1,000` orders, Jan 1 – Jun 29, 2026)
 
-> **Note:** Replace `REPLACE-WITH-YOUR-PUBLIC-REPORT-ID` above with the live URL copied from Looker Studio (**Share $\rightarrow$ Get report link** after setting permissions to *Anyone with the link can view*).
 
 ---
 
@@ -47,3 +46,4 @@
 * **Key Metrics Displayed:**
   * **Segment Revenue & Volume:** **KES 10,218,000** (`KES 10.22M`) across **83 orders** (`246` units), with an elevated **Average Order Value of KES 123,108** (`100.0%` Premium tier).
   * **Segment Breakdown:** **Nairobi** contributes **KES 6.52M** (`63.8%`) and **Mombasa** contributes **KES 3.70M** (`36.2%`), split between **Laptops (KES 5.85M)** and **Tablets (KES 4.37M)**, peaking in **March (KES 2.59M)**.
+
